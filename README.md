@@ -1,1 +1,1 @@
-# Tecnicas-de-Programacion
+# Tecnicas-de-Programacion-con-MPI
